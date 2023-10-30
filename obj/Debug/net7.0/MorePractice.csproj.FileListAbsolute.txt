@@ -1,0 +1,14 @@
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\bin\Debug\net7.0\MorePractice.exe
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\bin\Debug\net7.0\MorePractice.deps.json
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\bin\Debug\net7.0\MorePractice.runtimeconfig.json
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\bin\Debug\net7.0\MorePractice.dll
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\bin\Debug\net7.0\MorePractice.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\MorePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\MorePractice.AssemblyInfoInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\MorePractice.AssemblyInfo.cs
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\MorePractice.csproj.CoreCompileInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\MorePractice.dll
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\refint\MorePractice.dll
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\MorePractice.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\MorePractice.genruntimeconfig.cache
+C:\Users\johnf\OneDrive\Desktop\repos\MorePractice\obj\Debug\net7.0\ref\MorePractice.dll
